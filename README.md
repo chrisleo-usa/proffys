@@ -6,7 +6,9 @@
 
 
 ## Demonstração
-![Proffy Gif Demo](https://raw.githubusercontent.com/chrisleo-usa/Gifs/master/ProffyGifs/Proffy1.0.gif?token=AMKT7JLWVT77ATBZSDEJLN27GGIVY)
+<p align="center">
+  <img width="500" height="500" src="https://raw.githubusercontent.com/chrisleo-usa/Gifs/master/ProffyGifs/Proffy1.0.gif?token=AMKT7JLWVT77ATBZSDEJLN27GGIVY">
+</p>
 
 
 
