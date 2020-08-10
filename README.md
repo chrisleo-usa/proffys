@@ -2,7 +2,7 @@
   <img width="300" height="100" src="https://raw.githubusercontent.com/chrisleo-usa/proffys/master/public/images/logo-purple.png">
 </p>
 
-#### Proffy é uma plataforma que une Alunos e Professores. Com ela o aluno é capaz de encontrar de acordo com o dia, horário e matéria, qual professor está disponível para ministrar a aula. O professor organiza sua agenda de acordo com a demanda. 
+#### Proffy é uma plataforma que une Alunos e Professores. Com o Proffy, o aluno é capaz de encontrar de acordo com o dia, horário e matéria, qual professor está disponível para ministrar a aula. O professor organiza sua agenda de acordo com a demanda. 
 
 
 ## Demonstração
