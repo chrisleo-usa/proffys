@@ -7,12 +7,12 @@
 
 ## Demonstração de Cadastro
 <p align="center">
-  <img width="500" height="500" src="https://raw.githubusercontent.com/chrisleo-usa/Gifs/master/ProffyGifs/Proffy-classes1.0.gif?token=AMKT7JI3VVRH5WD7C6CMGQ27GGKCS">
+  <img width="500" height="500" src="https://github.com/chrisleo-usa/Gifs/blob/master/ProffyGifs/Proffy-classes1.0.gif">
 </p>
 
 ## Demonstração de Procura
 <p align="center">
-  <img width="500" height="500" src="https://raw.githubusercontent.com/chrisleo-usa/Gifs/master/ProffyGifs/Proffy1.0.gif?token=AMKT7JNWDYNSPT264ALBIOC7GGKGK">
+  <img width="500" height="500" src="https://github.com/chrisleo-usa/Gifs/blob/master/ProffyGifs/Proffy1.0.gif">
 </p>
 
 
